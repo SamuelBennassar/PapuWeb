@@ -1,0 +1,30 @@
+.estilo_tabla {
+    width: 100%;
+    margin: 25px 0;
+    font-size: 18px;
+    border-color: #1c6d0354;
+}
+.Sistemas {
+    background-color: #2c6903;
+    color: #93d6f5;
+}
+.Serveis {
+    background-color: #ff0101;
+    color: #010249;
+}
+.Web {
+    background-color: #e01ea0;
+    color: #1a0000;
+}
+.Seguretat {
+    background-color: #fde508;
+    color: #184200;
+}
+.Aplicacion {
+    background-color: #08e6da;
+    color: #010842;
+}
+.EIE {
+    background-color: #620779b2;
+    color: #cbf087;
+}
