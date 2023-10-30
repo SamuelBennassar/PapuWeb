@@ -1,9 +1,15 @@
 .home{
-    width: 1898px;
-    height: 1024px;
+    width: 1440px;
+    height: 1023px;
     flex-shrink: 0; 
     padding: auto; top: 1px; left: 304px; right: 154px; bottom: 1px;
-    background: url(file:///home/sbf/Descargas/dce96a4e8a39af155f91cc7032ba1ff5.jpeg)-709.695px -258.422px / 169.063% 208.89% no-repeat;
+    background: url(../img/fondo.png);
+}
+
+.fondo{
+    position: absolute;
+    width: 1898px;
+    height: 1024px;
 }
 
 .navbar {
@@ -36,8 +42,8 @@
     font-weight: 600;
     line-height: normal; 
     width: 140px;
-    padding-left: 1200px;
-    padding-right: 30px;
+    padding-left: 890px;
+    padding-right: 35px;
 }
 
 .Contact{
@@ -83,8 +89,8 @@
     font-family: Raleway;
     font-size: 20px;
     font-style: normal; 
-    padding-left: 1030px;
-    padding-top: 382px;
+    padding-left: 970px;
+    padding-top: 342px;
 
 }
 
@@ -111,15 +117,15 @@
     font-size: 14px; 
     background-color: black;
     border-color: black;
-    margin-left: 190px;
+    margin-left: 180px;
 }
 
 
 .imagen1{
     position: absolute;
     width: 180px;
-    margin-left: 800px;
-    margin-top: 730px;
+    margin-left: 700px;
+    margin-top: 670px;
     
 
 }
@@ -127,35 +133,35 @@
 .imagen2{
     position: absolute;
     width: 170px;
-    margin-left: 1000px;
-    margin-top: 485px;
+    margin-left: 943px;
+    margin-top: 442px;
     z-index: 1;
 }
 
 .imagen3{
     position: absolute;
     width: 70px;
-    margin-left: 855px;
-    margin-top: 780px;
+    margin-left: 755px;
+    margin-top: 718px;
 }
 
 .imagen4{
     position: absolute;
-    width: 210px;
-    margin-left: 970px;
-    margin-top: 620px;
+    width: 220px;
+    margin-left: 900px;
+    margin-top: 560px;
 }
 
 .imagen5{
     position: absolute;
     width: 270px;
-    margin-left: 1110px;
-    margin-top: 483px;
+    margin-left: 1040px;
+    margin-top: 433px;
 }
 
 .imagen6{
     position: absolute;
     width: 60px;
-    margin-left: 1210px;
-    margin-top: 400px;
+    margin-left: 1140px;
+    margin-top: 347px;
 }
