@@ -1,0 +1,161 @@
+.home{
+    width: 1898px;
+    height: 1024px;
+    flex-shrink: 0; 
+    padding: auto; top: 1px; left: 304px; right: 154px; bottom: 1px;
+    background: url(file:///home/sbf/Descargas/dce96a4e8a39af155f91cc7032ba1ff5.jpeg)-709.695px -258.422px / 169.063% 208.89% no-repeat;
+}
+
+.navbar {
+    width: 1900px;
+    height: 75px;
+    flex-shrink: 0; 
+    background: rgba(217, 217, 217, 0.20); 
+    padding-left: 45px;
+    padding-top: 30px;
+}
+
+.LOGO{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 7.2px; 
+    margin: 0;
+    width: 140px;
+    text-align: auto;
+}
+
+.About{
+    color: #FFDB60;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+    width: 140px;
+    padding-left: 1200px;
+    padding-right: 30px;
+}
+
+.Contact{
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(41, 52, 111, 0.20);
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+.Blogs{
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(63, 76, 139, 0.20);
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+}
+
+
+.titulo{
+    width: 600px;
+    height: 200px;
+    color: #ffffff;
+    text-shadow: 0px 4px 4px rgba(0, 82, 119, 0.50);
+    font-family: Histora Beralin;
+    font-size: 77px;
+    font-style: normal; 
+    padding-left: 175px;
+    padding-top: 160px;
+
+}
+
+.click{
+    position: absolute;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal; 
+    padding-left: 1030px;
+    padding-top: 382px;
+
+}
+
+.Texto{
+    width: 250px;
+    height: 100px;
+    color: #271908;
+    font-family: Raleway;
+    font-size: 26px;
+    font-style: normal;
+    padding-left: 190px;
+}
+
+.boton{
+    width: 211px;
+    height: 66px; 
+    padding: 24px 57px 24px 40px;
+    align-items: flex-start;
+    flex-shrink: 0; 
+    border-radius: 40px;
+    background: #271908; 
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 14px; 
+    background-color: black;
+    border-color: black;
+    margin-left: 190px;
+}
+
+
+.imagen1{
+    position: absolute;
+    width: 180px;
+    margin-left: 800px;
+    margin-top: 730px;
+    
+
+}
+
+.imagen2{
+    position: absolute;
+    width: 170px;
+    margin-left: 1000px;
+    margin-top: 485px;
+    z-index: 1;
+}
+
+.imagen3{
+    position: absolute;
+    width: 70px;
+    margin-left: 855px;
+    margin-top: 780px;
+}
+
+.imagen4{
+    position: absolute;
+    width: 210px;
+    margin-left: 970px;
+    margin-top: 620px;
+}
+
+.imagen5{
+    position: absolute;
+    width: 270px;
+    margin-left: 1110px;
+    margin-top: 483px;
+}
+
+.imagen6{
+    position: absolute;
+    width: 60px;
+    margin-left: 1210px;
+    margin-top: 400px;
+}
